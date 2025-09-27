@@ -1,0 +1,7 @@
+C:\Users\Yiğit\Desktop\1Ay'da-C#\5.Hafta-StoredProcedure-21.09.2025\bin\Debug\5.Hafta-StoredProcedure-21.09.2025.exe.config
+C:\Users\Yiğit\Desktop\1Ay'da-C#\5.Hafta-StoredProcedure-21.09.2025\bin\Debug\5.Hafta-StoredProcedure-21.09.2025.exe
+C:\Users\Yiğit\Desktop\1Ay'da-C#\5.Hafta-StoredProcedure-21.09.2025\bin\Debug\5.Hafta-StoredProcedure-21.09.2025.pdb
+C:\Users\Yiğit\Desktop\1Ay'da-C#\5.Hafta-StoredProcedure-21.09.2025\obj\Debug\5.Hafta-StoredProcedure-21.09.2025.csproj.AssemblyReference.cache
+C:\Users\Yiğit\Desktop\1Ay'da-C#\5.Hafta-StoredProcedure-21.09.2025\obj\Debug\5.Hafta-StoredProcedure-21.09.2025.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit\Desktop\1Ay'da-C#\5.Hafta-StoredProcedure-21.09.2025\obj\Debug\5.Hafta-StoredProcedure-21.09.2025.exe
+C:\Users\Yiğit\Desktop\1Ay'da-C#\5.Hafta-StoredProcedure-21.09.2025\obj\Debug\5.Hafta-StoredProcedure-21.09.2025.pdb
